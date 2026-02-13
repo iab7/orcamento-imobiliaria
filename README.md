@@ -38,3 +38,9 @@ Aplicando:
 
 ## 🏗 Estrutura do Projeto
 
+orcamento_imobiliaria/
+│
+├── main.py
+├── imovel.py
+├── contrato.py
+└── orcamento.csv (gerado automaticamente)
